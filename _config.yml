@@ -1,7 +1,7 @@
 name: her
 favicon: null
-layout_spectrum: 0.659002493834123
-typography_spectrum: 0.8291727968025953
+layout_spectrum: 0
+typography_spectrum: 0.25391
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.9829363133758307
+  brandStrength: 1
   lightness: 0.3733500908128917
   saturation: 0.532787945587188
   rhythmicContrast: 0.05181352002546191
